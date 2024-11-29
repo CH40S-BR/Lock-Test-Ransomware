@@ -1,0 +1,33 @@
+# Documentos da Empresa XYZ
+
+Nome do Cliente: João Silva
+ID do Cliente: 123456789
+Saldo Atual: R$ 15.000,00
+Última Transação: 01/10/2024 - Depósito R$ 5.000,00
+Próxima Fatura: 15/10/2024
+
+Nome do Cliente: Maria Oliveira
+ID do Cliente: 987654321
+Saldo Atual: R$ 7.500,00
+Última Transação: 30/09/2024 - Pagamento R$ 2.500,00
+Próxima Fatura: 20/10/2024
+
+Nome do Cliente: Pedro Santos
+ID do Cliente: 456123789
+Saldo Atual: R$ 10.000,00
+Última Transação: 28/09/2024 - Depósito R$ 4.000,00
+Próxima Fatura: 18/10/2024
+
+# Notas Fiscais
+
+Nota Fiscal 1: NF-1001 | Valor: R$ 1.200,00 | Data: 05/09/2024
+Nota Fiscal 2: NF-1002 | Valor: R$ 2.300,00 | Data: 10/09/2024
+Nota Fiscal 3: NF-1003 | Valor: R$ 3.500,00 | Data: 15/09/2024
+
+# Informações de Acesso
+
+Servidor: 192.168.1.100
+Usuário: admin
+Senha: admin123
+
+IMPORTANTE: Este arquivo contém informações confidenciais da empresa XYZ. O acesso não autorizado a este documento é estritamente proibido.
